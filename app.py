@@ -1,7 +1,5 @@
 from flask import Flask
 
-# teste
-
 #__name__ = "__main___"
 app = Flask(__name__)
 
